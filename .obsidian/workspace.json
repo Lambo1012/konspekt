@@ -11,10 +11,14 @@
             "id": "cfb8ffc78fd661d8",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Информационные технологии/Понятие информации и ИТ. Устройство.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "Понятие информации и ИТ. Устройство"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Файловый менеджер"
@@ -177,5 +183,8 @@
     }
   },
   "active": "cfb8ffc78fd661d8",
-  "lastOpenFiles": []
+  "lastOpenFiles": [
+    "Информационные технологии/Понятие информации и ИТ. Устройство.md",
+    "Информационные технологии"
+  ]
 }
