@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "3ae4b909d706f375",
+        "id": "2643aa3e16f01587",
         "type": "tabs",
         "children": [
           {
-            "id": "cfb8ffc78fd661d8",
+            "id": "b3a4f96068685e2e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Информационные технологии/Практическая работа №1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Практическая работа №1"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -182,14 +178,21 @@
       "bases:Создать новую базу": false
     }
   },
-  "active": "cfb8ffc78fd661d8",
+  "active": "b3a4f96068685e2e",
   "lastOpenFiles": [
-    "Pasted image 20260903134035.png",
-    "Pasted image 20260903133900.png",
-    "Информационные технологии/Понятие информации и ИТ. Устройство.md",
+    "Информационные технологии/Практическая работа 4.09.26.md",
+    "Pasted image 20260904113201.jpg",
+    "Pasted image 20260904113157.jpg",
+    "Pasted image 20260904113135.jpg",
+    "Pasted image 20260904113130.jpg",
+    "Pasted image 20260904113059.jpg",
+    "Pasted image 20260904113050.jpg",
+    "Pasted image 20260904113047.jpg",
+    "Pasted image 20260904111509.jpg",
+    "Pasted image 20260904111504.jpg",
+    "Pasted image 20260904110817.jpg",
     "Информационные технологии/Практическая работа №1.md",
-    "Pasted image 20260903132441.png",
-    "Pasted image 20260903132259.png",
+    "Информационные технологии/Понятие информации и ИТ. Устройство.md",
     "Информационные технологии/Практическая работа.md",
     "Информационные технологии"
   ]
